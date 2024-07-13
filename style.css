@@ -29,6 +29,7 @@ body {
   min-height: 100vh;
   background: linear-gradient(var(--lightgreen) 0%, var(--black) 100%);
   background-image: url(images/background.jpg);
+  background-size: cover;
   overflow: hidden;
 }
 
